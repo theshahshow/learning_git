@@ -1,10 +1,4 @@
 print("hello")
 print("First commit is done!")
 
-print("stage this")
-print("dont stage this")
-print("stage this")
-print("stage this")
-print("stage this")
-print("dont stage this")
-print("stage this")
+print("supp")
