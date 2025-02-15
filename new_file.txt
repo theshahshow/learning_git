@@ -1,1 +1,3 @@
 Hello, this is a txt file.
+
+Trying to create a diverging branch.
