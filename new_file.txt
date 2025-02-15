@@ -1,3 +1,5 @@
 Hello, this is a txt file.
 
+Aha diverged.
+
 Trying to create a diverging branch.
